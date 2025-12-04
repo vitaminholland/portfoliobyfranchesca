@@ -10,7 +10,7 @@
 
 <link rel="shortcut icon" href="{Favicon}">
 
-<link rel="stylesheet" href="stylesheet.css">
+<link rel="stylesheet" href="https://github.com/vitaminholland/portfoliobyfranchesca.github.io/blob/main/stylesheet.css">
     
 </head>
 
